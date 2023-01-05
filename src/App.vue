@@ -1,6 +1,8 @@
 <template>
-  <AnimasjonZoom/>
+  <AnimasjonZoom hallo="Hello world"/>
+  <AnimasjonZoom hallo="Dette er nummer 2"/>
 </template>
+
 
 <script>
 import AnimasjonZoom from './components/AnimasjonZoom.vue'
@@ -12,6 +14,8 @@ export default {
   }
 }
 </script>
+
+
 
 <style>
 #app {

@@ -3,6 +3,7 @@
      :class="{shake: hover, shakeReverse: reverse}" src="../assets/logo.png">
 
     <p >{{hover}}</p>
+    <p>{{hallo}}</p>
 </template>
 
 
@@ -21,6 +22,7 @@ export default {
     },
 
     props: {
+        hallo: String
     },
 
     methods: {
