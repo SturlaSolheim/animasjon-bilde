@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <AnimasjonZoom/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import AnimasjonZoom from './components/AnimasjonZoom.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    AnimasjonZoom
   }
 }
 </script>
