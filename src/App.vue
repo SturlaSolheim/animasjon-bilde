@@ -3,6 +3,8 @@
   <AnimasjonZoom hallo="Dette er nummer 2"/>
   <AnimasjonZoom hallo="Dette er nummer 3"/>
   <AnimasjonZoom hallo="Dette er nummer 4"/>
+  <AnimasjonZoom hallo="Dette er nummer 4"/>
+  <AnimasjonZoom hallo="Dette er nummer 4"/>
 </template>
 
 
