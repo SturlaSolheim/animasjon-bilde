@@ -1,0 +1,9 @@
+git init
+git add
+git commit -m "ok"
+git checkhout branch
+git branch branchNAVN
+git merge
+git push
+git diff
+git status
